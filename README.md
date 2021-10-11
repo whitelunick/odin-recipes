@@ -1,0 +1,1 @@
+For this project I'm creating a recipe website using HTML. This project will demonstrate an understanding of basic HTML boilerplate, manipulating text, creating lists, and embedding images.
