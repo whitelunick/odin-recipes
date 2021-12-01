@@ -1,0 +1,27 @@
+body{
+    background-image: url('images/sakura.gif');
+    background-size: cover;
+    background-color: lavender;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+li{
+    font-size: large;
+    margin-right: 20px;
+}
+
+h1, h2{
+    font-size: 50px;
+    color: #b35d86;
+}
