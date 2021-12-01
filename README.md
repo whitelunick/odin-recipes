@@ -1,1 +1,1 @@
-For this project I'm creating a recipe website using HTML. This project will demonstrate an understanding of basic HTML boilerplate, manipulating text, creating lists, and embedding images.
+For this project I'm creating a recipe website using HTML and CSS. This project will demonstrate an understanding of basic HTML boilerplate, manipulating text, creating lists, and embedding images. This project will also demonstrate an understanding of basic CSS including many different style elements and an understanding of cascading. 
